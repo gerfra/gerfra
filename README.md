@@ -1,9 +1,9 @@
 ### 📚 Nothing was your own except the few cubic centimetres inside your skull.
 
+<!-- ![gerfra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gerfra&hide=javascript,css,scss,html&theme=tokyonight)-->
 
 
-![gerfra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gerfra&hide=javascript,css,scss,html&theme=tokyonight)
-
+![gerfra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gerfra&layout=compact&count_private=true&show_icons=true&hide_title=true&langs_count=10)
 
 ---
 
